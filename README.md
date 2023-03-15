@@ -4,7 +4,7 @@ Welcome to Clicker Game! In this game, you have just 10 seconds to click a butto
 
 ## How to Play
 
-1. Open the index.html file in your web browser.
+1. Open the `index.html` file in your web browser.
 2. Click the button as many times as possible within 10 seconds.
 3. Your score will be displayed at the end of the game.
 
